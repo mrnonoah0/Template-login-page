@@ -18,8 +18,8 @@ Preview
 
 Usage:
 
-Clone the repository:
-git clone https://github.com/mrnonoah0/webflow-login.git
+Clone the repository:                                                                                                                                                           
+git clone https://github.com/mrnonoah0/webflow-login.git                                                                                                                        
 Open index.html in your browser.
 
 License:
