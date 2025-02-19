@@ -19,11 +19,8 @@ Preview
 Usage:
 
 Clone the repository:
-
 git clone https://github.com/mrnonoah0/webflow-login.git![Uploading Schermopname (1136).png…]()
-
 Open index.html in your browser.
 
 License:
-
 This project is provided free-to-use for educational and development purposes. No credit is required, and you are free to use, modify, and distribute the code. Check the LICENSE file for more details.
