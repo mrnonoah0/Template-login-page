@@ -18,9 +18,6 @@ Preview
 
 Usage
 Clone the repository:
-bash
-Kopiëren
-Bewerken
 git clone https://github.com/mrnonoah0/webflow-login.git
 Open index.html in your browser.
 License
