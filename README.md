@@ -16,10 +16,14 @@ Preview
 
 ![Schermopname (1136)](https://github.com/user-attachments/assets/e387580a-13fb-40d2-be5b-eb5ad8001881)
 
-Usage
+Usage:
+
 Clone the repository:
+
 git clone https://github.com/mrnonoah0/webflow-login.git![Uploading Schermopname (1136).png…]()
 
 Open index.html in your browser.
-License
+
+License:
+
 This project is provided free-to-use for educational and development purposes. No credit is required, and you are free to use, modify, and distribute the code. Check the LICENSE file for more details.
