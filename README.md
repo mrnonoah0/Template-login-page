@@ -19,7 +19,7 @@ Preview
 Usage:
 
 Clone the repository:
-git clone https://github.com/mrnonoah0/webflow-login.git![Uploading Schermopname (1136).png…]()
+git clone https://github.com/mrnonoah0/webflow-login.git
 Open index.html in your browser.
 
 License:
